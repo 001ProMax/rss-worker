@@ -1,5 +1,5 @@
 {
-	"name": "rss-worker",
+	"name": "rss",
 	"version": "0.0.0",
 	"private": true,
 	"scripts": {
